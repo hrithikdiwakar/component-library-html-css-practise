@@ -81,6 +81,7 @@ hr {
 /**header**/
 .hero {
   padding: 1rem;
+  padding-top: 5rem;
 }
 
 .hero .hero-image {
