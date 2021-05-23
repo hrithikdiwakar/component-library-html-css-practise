@@ -99,17 +99,18 @@ hr {
   padding-top: 2rem;
   text-align: center;
   font-size: 2.5rem;
-  color: var(--dark-gray);
+  color: var(--primary-color);
 }
 
 .page-heading {
   text-align: center;
   font-size: 2.5rem;
-  color: var(--dark-gray);
+  color: var(--primary-color);
 }
 
 .section {
   padding: 1rem;
+  margin-bottom: 1rem;
 }
 
 .section h1 {
